@@ -31,8 +31,8 @@ Soy un apasionado de la tecnología y estudiante de **Ciencias de la Computació
 
 ### 🌟 Proyectos Destacados
 
-- **[Universo Liga 1](https://github.com/TU_USUARIO/universo-liga1):** Web app interactiva sobre el fútbol peruano desarrollada con **Astro**, enfocada en la visualización de datos y experiencia de usuario a través de minijuegos, tabla y calculadora de resultados, y una wiki informativa sobre los clubes. Hecho con Astro, React y Bootstrap.
-- **[Plataforma EduRents](https://github.com/TU_USUARIO/ecommerce):** Sistema completo tipo eCommerce con arquitectura hecha con **Spring Boot** y **Angular 18**, incluyendo seguridad **RBAC**, generación de cuentas, seguridad con JWT, operaciones CRUD con productos y sistema de reseñas.
+- **[Universo Liga 1](https://github.com/EduRS14/universo-liga-1):** Web app interactiva sobre el fútbol peruano desarrollada con **Astro**, enfocada en la visualización de datos y experiencia de usuario a través de minijuegos, tabla y calculadora de resultados, y una wiki informativa sobre los clubes. Hecho con Astro, React y Bootstrap.
+- **Plataforma EduRents ([Backend](https://github.com/EduRS14/API-REST-EduRents) y [Frontend](https://github.com/EduRS14/edurents-frontend)):** Sistema completo tipo eCommerce con arquitectura hecha con **Spring Boot** y **Angular 18**, incluyendo seguridad **RBAC**, generación de cuentas, seguridad con JWT, operaciones CRUD con productos y sistema de reseñas.
 - **[TodoWordle](https://github.com/EduRS14/todo-wordle):** Un juego estilo Wordle categorizado, optimizado para rendimiento y diseño responsivo. Hecho con Astro y React.
 - **[Sistema de Recomendación](https://github.com/EduRS14/sistema-recomendacion-distribuido-peliculas):** Aplicación de algoritmo de ciencia de datos para la realización de un sistema de recomendación distribuido de películas con contenedores Docker, backend en Go y frontend con React.
 
