@@ -40,8 +40,16 @@ Soy un apasionado de la tecnología y estudiante de **Ciencias de la Computació
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de Eduardo](https://github-readme-stats.vercel.app/api?username=EduRS14&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EduRS14&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduRS14&show_icons=true&theme=radical&border_radius=10" alt="Stats de Eduardo" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduRS14&theme=radical&border_radius=10" alt="Racha de Eduardo" />
+</p>
+
+### 🛠️ Lenguajes más usados
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduRS14&layout=compact&theme=radical&border_radius=10" alt="Lenguajes de Eduardo" />
+</p>
 
 ---
 
@@ -49,6 +57,3 @@ Soy un apasionado de la tecnología y estudiante de **Ciencias de la Computació
 
 - **LinkedIn:** [linkedin.com/in/eduardo-rivas-siesquen/](https://linkedin.com/in/eduardo-rivas-siesquen/)
 - **Email:** [eduardo14.05rivas@gmail.com](mailto:eduardo14.05rivas@gmail.com)
-
----
-*“Comprometido con la excelencia técnica y la mejora continua.”*
